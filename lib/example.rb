@@ -2,7 +2,7 @@
 
 def say_hello_world_ten_times
   phrase = "Hello World!"
-  puts phrase
+  puts phrase.times(10)
   puts phrase
   puts phrase
   puts phrase
